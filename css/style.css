@@ -1,0 +1,16 @@
+.logo {
+	font-size: 40px;
+	display: inline-block;
+	color: red;
+	margin: right;
+
+}
+
+nav {
+	display: inline-block;
+}
+li a {
+	color: black;
+	font-size: 22px;
+	margin-right: 20px;
+}
